@@ -1,6 +1,4 @@
 # k8s-devops-demo
-# k8s-manifests-template
-
 > A DevOps-focused Kubernetes manifest bundle demonstrating secure, declarative, and maintainable deployment patterns—ideal for local development (Minikube) and CI/CD pipelines.
 
 This project is **not about the application**—it’s about **how** you deploy it on Kubernetes.
